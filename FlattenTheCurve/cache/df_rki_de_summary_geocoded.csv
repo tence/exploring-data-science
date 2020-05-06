@@ -1,0 +1,17 @@
+,Bundesland,AnzahlFall,AnzahlTodesfall,AnzahlGenesen,location,point,latitude,longitude,altitude
+0,Baden-Württemberg,31580,1353,23180,"Baden-Württemberg, Deutschland","(48.6296972, 9.1949534, 0.0)",48.6296972,9.1949534,0.0
+1,Bayern,42056,1799,31898,"Bayern, Deutschland","(48.9467562, 11.4038717, 0.0)",48.9467562,11.4038717,0.0
+2,Berlin,5819,147,4837,"Berlin, Deutschland","(52.5170365, 13.3888599, 0.0)",52.5170365,13.3888599,0.0
+3,Brandenburg,2828,113,2104,"Brandenburg, Deutschland","(52.8455492, 13.2461296, 0.0)",52.8455492,13.2461296,0.0
+4,Bremen,825,29,520,"Bremen, Deutschland","(53.0758196, 8.8071646, 0.0)",53.0758196,8.8071646,0.0
+5,Hamburg,4557,154,3514,"Hamburg, Deutschland","(53.5437641, 10.0099133, 0.0)",53.5437641,10.0099133,0.0
+6,Hessen,8303,353,6367,"Hessen, Deutschland","(50.6118537, 9.1909725, 0.0)",50.6118537,9.1909725,0.0
+7,Mecklenburg-Vorpommern,690,17,618,"Mecklenburg-Vorpommern, Deutschland","(53.7735234, 12.5755746, 0.0)",53.7735234,12.5755746,0.0
+8,Niedersachsen,10065,416,7990,"Niedersachsen, Deutschland","(52.8398531, 9.075962, 0.0)",52.8398531,9.075962,0.0
+9,Nordrhein-Westfalen,32677,1219,26688,"Nordrhein-Westfalen, Deutschland","(51.4781796, 7.5542336, 0.0)",51.4781796,7.5542336,0.0
+10,Rheinland-Pfalz,6020,166,4960,"Rheinland-Pfalz, Deutschland","(49.9531599, 7.310646, 0.0)",49.9531599,7.310646,0.0
+11,Saarland,2550,131,2116,"Saarland, Deutschland","(49.4173988, 6.9805789, 0.0)",49.4173988,6.9805789,0.0
+12,Sachsen,4560,156,3596,"Sachsen, Deutschland","(50.9295798, 13.4585052, 0.0)",50.9295798,13.4585052,0.0
+13,Sachsen-Anhalt,1549,43,1215,"Sachsen-Anhalt, Deutschland","(51.908526, 11.4939134, 0.0)",51.908526,11.4939134,0.0
+14,Schleswig-Holstein,2684,106,2127,"Schleswig-Holstein, Deutschland","(54.1853998, 9.8220089, 0.0)",54.1853998,9.8220089,0.0
+15,Thüringen,2254,85,1656,"Thüringen, Deutschland","(50.7333163, 11.0747905, 0.0)",50.7333163,11.0747905,0.0

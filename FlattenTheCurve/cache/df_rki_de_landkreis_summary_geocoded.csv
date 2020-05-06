@@ -1,0 +1,413 @@
+,Landkreis,AnzahlFall,AnzahlTodesfall,AnzahlGenesen,location,point,latitude,longitude,altitude
+0,LK Ahrweiler,121,1,109,"Ahrweiler, Bad Neuenahr-Ahrweiler, Landkreis Ahrweiler, Rheinland-Pfalz, Deutschland","(50.54183, 7.0951124, 0.0)",50.54183,7.0951124,0.0
+1,LK Aichach-Friedberg,276,20,237,"Friedberg, Landkreis Aichach-Friedberg, Bayern, 86316, Deutschland","(48.3549199, 10.9838928, 0.0)",48.3549199,10.9838928,0.0
+2,LK Alb-Donau-Kreis,527,11,301,,,,,
+3,LK Altenburger Land,51,3,37,,,,,
+4,LK Altenkirchen,149,9,114,"Altenkirchen (Westerwald), Altenkirchen-Flammersfeld, Landkreis Altenkirchen, Rheinland-Pfalz, 57610, Deutschland","(50.687656849999996, 7.638951800514453, 0.0)",50.687656849999996,7.638951800514453,0.0
+5,LK Altmarkkreis Salzwedel,32,0,25,"Salzwedel, Altmarkkreis Salzwedel, Sachsen-Anhalt, 29410, Deutschland","(52.8528456, 11.1539699, 0.0)",52.8528456,11.1539699,0.0
+6,LK Altötting,583,33,415,"Altötting, Landkreis Altötting, Bayern, 84503, Deutschland","(48.2268085, 12.6757914, 0.0)",48.2268085,12.6757914,0.0
+7,LK Alzey-Worms,221,5,147,"Alzey, Landkreis Alzey-Worms, Rheinland-Pfalz, Deutschland","(49.7455695, 8.1150946, 0.0)",49.7455695,8.1150946,0.0
+8,LK Amberg-Sulzbach,446,42,284,"Am Berg, Sägmühle, Auerbach in der Oberpfalz, Landkreis Amberg-Sulzbach, Bayern, 91275, Deutschland","(49.7018511, 11.5858474, 0.0)",49.7018511,11.5858474,0.0
+9,LK Ammerland,161,5,146,"Ammerland, Landkreis Bad Tölz-Wolfratshausen, Bayern, 82541, Deutschland","(47.9023747, 11.3372191, 0.0)",47.9023747,11.3372191,0.0
+10,LK Anhalt-Bitterfeld,69,1,52,"Bitterfeld, Bitterfeld-Wolfen, Anhalt-Bitterfeld, Sachsen-Anhalt, 06749, Deutschland","(51.6239124, 12.3301466, 0.0)",51.6239124,12.3301466,0.0
+11,LK Ansbach,535,16,372,"Ansbach, Bayern, 91522, Deutschland","(49.3028611, 10.5722288, 0.0)",49.3028611,10.5722288,0.0
+12,LK Aschaffenburg,484,27,415,"Aschaffenburg, Bayern, 63739, Deutschland","(49.9740542, 9.1493636, 0.0)",49.9740542,9.1493636,0.0
+13,LK Augsburg,363,6,307,"Augsburg, Mahaica-Berbice Region, Mahaica-Berbice, Guyana","(6.2086834, -57.5382013, 0.0)",6.2086834,-57.5382013,0.0
+14,LK Aurich,87,6,68,"Hermine-Edenhuizen-Haus, LK Aurich, Schatthausstraße, Pewsum, Krummhörn, Landkreis Aurich, Niedersachsen, 26736, Deutschland","(53.439865, 7.096153957844477, 0.0)",53.439865,7.096153957844477,0.0
+15,LK Bad Dürkheim,321,9,290,"Bad Dürkheim, Landkreis Bad Dürkheim, Rheinland-Pfalz, 67098, Deutschland","(49.4632944, 8.1705063, 0.0)",49.4632944,8.1705063,0.0
+16,LK Bad Kissingen,226,17,166,"Bad Kissingen, Landkreis Bad Kissingen, Bayern, 97688, Deutschland","(50.1983954, 10.0750993, 0.0)",50.1983954,10.0750993,0.0
+17,LK Bad Kreuznach,186,2,124,"Bad Kreuznach, Landkreis Bad Kreuznach, Rheinland-Pfalz, Deutschland","(49.8431642, 7.8657658, 0.0)",49.8431642,7.8657658,0.0
+18,LK Bad Tölz-Wolfratshausen,403,10,362,"Bad Tölz, Landkreis Bad Tölz-Wolfratshausen, Bayern, 83646, Deutschland","(47.7610641, 11.5582933, 0.0)",47.7610641,11.5582933,0.0
+19,LK Bamberg,381,34,290,"Bamberg, Bayern, 96047, Deutschland","(49.8916044, 10.8868478, 0.0)",49.8916044,10.8868478,0.0
+20,LK Barnim,366,22,212,"Barnim, gmina Warnice, powiat pyrzycki, województwo zachodniopomorskie, 74-201, Polska","(53.23727, 15.01103, 0.0)",53.23727,15.01103,0.0
+21,LK Bautzen,339,12,221,"Bautzen - Budyšin, Bautzen, Sachsen, Deutschland","(51.1813907, 14.4275735, 0.0)",51.1813907,14.4275735,0.0
+22,LK Bayreuth,382,10,335,"Bayreuth, Bayern, 95444, Deutschland","(49.9427202, 11.5763079, 0.0)",49.9427202,11.5763079,0.0
+23,LK Berchtesgadener Land,266,14,224,,,,,
+24,LK Bergstraße,309,2,282,"Linkbergstraße, Neuwirtshaus, Hünfeld, Landkreis Fulda, Hessen, 36088, Deutschland","(50.6845488, 9.8034094, 0.0)",50.6845488,9.8034094,0.0
+25,LK Bernkastel-Wittlich,129,2,113,"Bernkastel, Bernkastel-Kues, Landkreis Bernkastel-Wittlich, Rheinland-Pfalz, Deutschland","(49.91063775, 7.086708230887229, 0.0)",49.91063775,7.086708230887229,0.0
+26,LK Biberach,521,21,404,"Biberach an der Riß, Verwaltungsgemeinschaft Biberach an der Riß, Landkreis Biberach, Baden-Württemberg, 88400, Deutschland","(48.0984413, 9.7899938, 0.0)",48.0984413,9.7899938,0.0
+27,LK Birkenfeld,81,0,65,"Birkenfeld, Braam-Ostwennemar, Hamm, Nordrhein-Westfalen, 59071, Deutschland","(51.6740112, 7.8644585, 0.0)",51.6740112,7.8644585,0.0
+28,LK Bitburg-Prüm,169,3,150,"Bitburg, Eifelkreis Bitburg-Prüm, Rheinland-Pfalz, Deutschland","(49.9732762, 6.524947, 0.0)",49.9732762,6.524947,0.0
+29,LK Bodenseekreis,282,8,258,"Link Ulrich Versicherungsmakler, Faberstraße, Jettenhausen, Friedrichshafen, Verwaltungsgemeinschaft Friedrichshafen, Bodenseekreis, Baden-Württemberg, 88045, Deutschland","(47.6690379, 9.4751233, 0.0)",47.6690379,9.4751233,0.0
+30,LK Borken,879,36,802,"Borken, Kreis Borken, Nordrhein-Westfalen, 46325, Deutschland","(51.8443183, 6.8582247, 0.0)",51.8443183,6.8582247,0.0
+31,LK Breisgau-Hochschwarzwald,1073,52,870,,,,,
+32,LK Burgenlandkreis,88,1,65,"PVG Burgenlandkreis – Betriebshof Naumburg, Naumburger Gartenstadt, Naumburg (Saale), Burgenlandkreis, Sachsen-Anhalt, 06618, Deutschland","(51.15632945, 11.81729295645463, 0.0)",51.15632945,11.81729295645463,0.0
+33,LK Böblingen,1296,40,814,"Böblingen, Landkreis Böblingen, Baden-Württemberg, Deutschland","(48.684969, 9.0113444, 0.0)",48.684969,9.0113444,0.0
+34,LK Börde,137,9,91,"Link, Rue Jeanne d'Arc, Orléans, Loiret, Centre-Val de Loire, France métropolitaine, 45000, France","(47.9013311, 1.9044823, 0.0)",47.9013311,1.9044823,0.0
+35,LK Calw,668,23,492,"Calw, Verwaltungsgemeinschaft Calw, Landkreis Calw, Baden-Württemberg, 75365, Deutschland","(48.7153344, 8.7381796, 0.0)",48.7153344,8.7381796,0.0
+36,LK Celle,171,11,126,"(10) Imkerhaus aus Eschede, LK Celle, von 1844, Am Landtagsplatz, Olmsruh, Suderburg, Samtgemeinde Suderburg, Uelzen, Niedersachsen, 29556, Deutschland","(52.84452015, 10.407820395558689, 0.0)",52.84452015,10.407820395558689,0.0
+37,LK Cham,398,17,321,"Cham, Landkreis Cham, Bayern, 93413, Deutschland","(49.2178194, 12.6663832, 0.0)",49.2178194,12.6663832,0.0
+38,LK Cloppenburg,98,0,90,"Cloppenburg, Landkreis Cloppenburg, Niedersachsen, 49661, Deutschland","(52.8461339, 8.0438783, 0.0)",52.8461339,8.0438783,0.0
+39,LK Coburg,184,7,125,"Coburg, Bayern, 96450, Deutschland","(50.258112, 10.964463, 0.0)",50.258112,10.964463,0.0
+40,LK Cochem-Zell,126,1,122,"Cochem, Landkreis Cochem-Zell, Rheinland-Pfalz, Deutschland","(50.1483916, 7.1663195, 0.0)",50.1483916,7.1663195,0.0
+41,LK Coesfeld,504,22,445,"Coesfeld, Kreis Coesfeld, Nordrhein-Westfalen, 48653, Deutschland","(51.9458943, 7.1691108, 0.0)",51.9458943,7.1691108,0.0
+42,LK Cuxhaven,104,5,76,"Cuxhaven, Landkreis Cuxhaven, Niedersachsen, Deutschland","(53.86878, 8.698286, 0.0)",53.86878,8.698286,0.0
+43,LK Dachau,840,20,735,"Dachau, Landkreis Dachau, Bayern, 85221, Deutschland","(48.2592477, 11.4354419, 0.0)",48.2592477,11.4354419,0.0
+44,LK Dahme-Spreewald,197,6,158,,,,,
+45,LK Darmstadt-Dieburg,358,14,299,"Darmstadt, Hessen, 64283, Deutschland","(49.872775, 8.651177, 0.0)",49.872775,8.651177,0.0
+46,LK Deggendorf,264,10,209,"Deggendorf, Landkreis Deggendorf, Bayern, 94469, Deutschland","(48.8333535, 12.96205, 0.0)",48.8333535,12.96205,0.0
+47,LK Diepholz,319,22,246,"Diepholz, Landkreis Diepholz, Niedersachsen, 49356, Deutschland","(52.6113677, 8.372661, 0.0)",52.6113677,8.372661,0.0
+48,LK Dillingen a.d.Donau,233,18,160,"Dillingen a.d.Donau, Landkreis Dillingen an der Donau, Bayern, 89407, Deutschland","(48.5812458, 10.4952243, 0.0)",48.5812458,10.4952243,0.0
+49,LK Dingolfing-Landau,189,4,167,"Dingolfing, Landkreis Dingolfing-Landau, Bayern, 84130, Deutschland","(48.6300801, 12.4977434, 0.0)",48.6300801,12.4977434,0.0
+50,LK Dithmarschen,54,3,50,"Burg (Dithmarschen), Burg-Sankt Michaelisdonn, Dithmarschen, Schleswig-Holstein, 25712, Deutschland","(53.9976953, 9.2566673, 0.0)",53.9976953,9.2566673,0.0
+51,LK Donau-Ries,331,22,224,"Link, Hilaria-Lechner-Straße, Druisheim, Mertingen, Landkreis Donau-Ries, Bayern, 86690, Deutschland","(48.6529569, 10.8032241, 0.0)",48.6529569,10.8032241,0.0
+52,LK Donnersbergkreis,116,3,83,,,,,
+53,LK Düren,551,30,454,"Düren, Kreis Düren, Nordrhein-Westfalen, Deutschland","(50.8031684, 6.4820806, 0.0)",50.8031684,6.4820806,0.0
+54,LK Ebersberg,457,5,379,"Ebersberg, Landkreis Ebersberg, Bayern, 85560, Deutschland","(48.0765786, 11.9647521, 0.0)",48.0765786,11.9647521,0.0
+55,LK Eichsfeld,129,3,105,"Eichsfeld, Wellinghofen, Hörde, Dortmund, Nordrhein-Westfalen, 44265, Deutschland","(51.4758395, 7.488074, 0.0)",51.4758395,7.488074,0.0
+56,LK Eichstätt,267,16,209,"Eichstätt, Landkreis Eichstätt, Bayern, 85072, Deutschland","(48.8933417, 11.1838965, 0.0)",48.8933417,11.1838965,0.0
+57,LK Elbe-Elster,73,3,69,,,,,
+58,LK Emmendingen,514,37,442,"Emmendingen (Kernstadt), Emmendingen, VVG der Stadt Emmendingen, Landkreis Emmendingen, Baden-Württemberg, 79312, Deutschland","(48.1206565, 7.850993, 0.0)",48.1206565,7.850993,0.0
+59,LK Emsland,383,16,345,"Wertstoffhof LK-Emsland, Flachsmeerstraße, Gewerbegebiet Flachsmeerstraße, Papenburg, Landkreis Emsland, Niedersachsen, 26871, Deutschland","(53.08614815, 7.440034166014722, 0.0)",53.08614815,7.440034166014722,0.0
+60,LK Ennepe-Ruhr-Kreis,380,11,347,"Küchenschmiede Link, Frankensteiner Straße, Wullen, Annen, Witten, Ennepe-Ruhr-Kreis, Nordrhein-Westfalen, 58454, Deutschland","(51.4545119, 7.3557636, 0.0)",51.4545119,7.3557636,0.0
+61,LK Enzkreis,546,14,321,,,,,
+62,LK Erding,564,8,487,"Erding, Landkreis Erding, Bayern, 85435, Deutschland","(48.3064441, 11.9076579, 0.0)",48.3064441,11.9076579,0.0
+63,LK Erlangen-Höchstadt,200,6,179,,,,,
+64,LK Erzgebirgskreis,517,40,392,,,,,
+65,LK Esslingen,1662,87,1422,"Esslingen am Neckar, Landkreis Esslingen, Baden-Württemberg, Deutschland","(48.7427584, 9.3071685, 0.0)",48.7427584,9.3071685,0.0
+66,LK Euskirchen,349,13,294,"Euskirchen, Kreis Euskirchen, Nordrhein-Westfalen, Deutschland","(50.66129, 6.7871681, 0.0)",50.66129,6.7871681,0.0
+67,LK Forchheim,197,4,182,"Forchheim, Landkreis Forchheim, Bayern, 91301, Deutschland","(49.7186937, 11.0596433, 0.0)",49.7186937,11.0596433,0.0
+68,LK Freising,934,35,836,"Freising, Landkreis Freising, Bayern, Deutschland","(48.4008273, 11.7439565, 0.0)",48.4008273,11.7439565,0.0
+69,LK Freudenstadt,541,32,457,"Freudenstadt, Vereinbarte Verwaltungsgemeinschaft Freudenstadt, Landkreis Freudenstadt, Baden-Württemberg, 72250, Deutschland","(48.4637727, 8.4111727, 0.0)",48.4637727,8.4111727,0.0
+70,LK Freyung-Grafenau,181,11,136,"Robert-Link-Straße, Neubruch, Neuschönau, Landkreis Freyung-Grafenau, Bayern, 94556, Deutschland","(48.8858009, 13.4800232, 0.0)",48.8858009,13.4800232,0.0
+71,LK Friesland,31,1,27,"Friesland, Columbia County, Wisconsin, United States of America","(43.5885954, -89.067335, 0.0)",43.5885954,-89.067335,0.0
+72,LK Fulda,298,11,282,"Fulda, Landkreis Fulda, Hessen, Deutschland","(50.5521486, 9.676511, 0.0)",50.5521486,9.676511,0.0
+73,LK Fürstenfeldbruck,781,31,637,"Fürstenfeldbruck, Landkreis Fürstenfeldbruck, Bayern, 82256, Deutschland","(48.1813797, 11.2382125, 0.0)",48.1813797,11.2382125,0.0
+74,LK Fürth,465,51,321,"Fürth, Piesendorf, Zell am See, Salzburg, 5721, Österreich","(47.2906872, 12.7460638, 0.0)",47.2906872,12.7460638,0.0
+75,LK Garmisch-Partenkirchen,263,15,194,"Garmisch-Partenkirchen, Landkreis Garmisch-Partenkirchen, Bayern, Deutschland","(47.4938359, 11.103992, 0.0)",47.4938359,11.103992,0.0
+76,LK Germersheim,139,5,124,"Germersheim, Landkreis Germersheim, Rheinland-Pfalz, 76726, Deutschland","(49.2222749, 8.36659, 0.0)",49.2222749,8.36659,0.0
+77,LK Gießen,219,3,195,"LK, Sanderweg, Heuchelheim, Landkreis Gießen, Hessen, 35452, Deutschland","(50.578761, 8.6315005, 0.0)",50.578761,8.6315005,0.0
+78,LK Gifhorn,123,4,111,"Gifhorn, Niedersachsen, 38518, Deutschland","(52.4827905, 10.5445691, 0.0)",52.4827905,10.5445691,0.0
+79,LK Goslar,205,11,132,"Harz (LK Goslar), Landkreis Goslar, Niedersachsen, Deutschland","(51.8035381, 10.501129336370267, 0.0)",51.8035381,10.501129336370267,0.0
+80,LK Gotha,220,11,106,"Gotha, Landkreis Gotha, Thüringen, 99867, Deutschland","(50.9462725, 10.6945265, 0.0)",50.9462725,10.6945265,0.0
+81,LK Grafschaft Bentheim,219,13,175,,,,,
+82,LK Greiz,424,27,279,"Greiz, Thüringen, 07973, Deutschland","(50.6477963, 12.1734848, 0.0)",50.6477963,12.1734848,0.0
+83,LK Groß-Gerau,418,7,266,"Groß-Gerau, Kreis Groß-Gerau, Hessen, 64521, Deutschland","(49.9194456, 8.4852426, 0.0)",49.9194456,8.4852426,0.0
+84,LK Göppingen,746,39,659,"Göppingen, Vereinbarte Verwaltungsgemeinschaft der Stadt Göppingen, Landkreis Göppingen, Baden-Württemberg, Deutschland","(48.7031377, 9.6541116, 0.0)",48.7031377,9.6541116,0.0
+85,LK Görlitz,255,20,210,"Görlitz, Sachsen, Deutschland","(51.1563185, 14.991018, 0.0)",51.1563185,14.991018,0.0
+86,LK Göttingen,743,47,543,"Göttingen, Landkreis Göttingen, Niedersachsen, Deutschland","(51.5327604, 9.9352051, 0.0)",51.5327604,9.9352051,0.0
+87,LK Günzburg,222,2,186,"Günzburg, Landkreis Günzburg, Bayern, 89312, Deutschland","(48.4539028, 10.2785509, 0.0)",48.4539028,10.2785509,0.0
+88,LK Gütersloh,593,17,541,"Gütersloh, Kreis Gütersloh, Nordrhein-Westfalen, 33330, Deutschland","(51.9063997, 8.3782078, 0.0)",51.9063997,8.3782078,0.0
+89,LK Hameln-Pyrmont,119,7,101,"Kreishaus, LK Hameln-Pyrmont, Süntelstraße, Wangelist, Hameln, Landkreis Hameln-Pyrmont, Niedersachsen, 31785, Deutschland","(52.111655049999996, 9.358904729874112, 0.0)",52.111655049999996,9.358904729874112,0.0
+90,LK Harburg,486,9,395,"Glüsingen (LK Harburg), Glüsinger Straße, Gewerbegebiet Glüsinger Straße, Jehrden, Seevetal, Harburg, Niedersachsen, 21217, Deutschland","(53.4086755, 10.0165381, 0.0)",53.4086755,10.0165381,0.0
+91,LK Harz,239,3,157,"Harz, Plounérin, Lannion, Côtes-d'Armor, Bretagne, France métropolitaine, 22780, France","(48.5508703, -3.5533537, 0.0)",48.5508703,-3.5533537,0.0
+92,LK Havelland,154,5,139,"Havelland, Zühlsdorf, Mühlenbecker Land, Oberhavel, Brandenburg, Deutschland","(52.728493, 13.3816348, 0.0)",52.728493,13.3816348,0.0
+93,LK Haßberge,149,4,121,"Karl-Link-Straße, Weidenmühle, Zeil am Main, Landkreis Haßberge, Bayern, 97475, Deutschland","(50.0145466, 10.5885563, 0.0)",50.0145466,10.5885563,0.0
+94,LK Heidekreis,69,1,61,"(31) Hofschafstall aus Leverdingen, LK Heidekreis, von 1789, mit Ausstellung, Wanderweg zum Museumsdorf, Olmsruh, Suderburg, Samtgemeinde Suderburg, Uelzen, Niedersachsen, 29556, Deutschland","(52.845922099999996, 10.408082523688833, 0.0)",52.845922099999996,10.408082523688833,0.0
+95,LK Heidenheim,421,33,346,"Heidenheim an der Brenz, Verwaltungsgemeinschaft Heidenheim an der Brenz, Landkreis Heidenheim, Baden-Württemberg, Deutschland","(48.6767637, 10.152923, 0.0)",48.6767637,10.152923,0.0
+96,LK Heilbronn,866,28,645,"Link, Rathausplatz, Kochendorf, Bad Friedrichshall, Verwaltungsgemeinschaft Bad Friedrichshall, Landkreis Heilbronn, Baden-Württemberg, 74177, Deutschland","(49.2285136, 9.210604, 0.0)",49.2285136,9.210604,0.0
+97,LK Heinsberg,1747,62,1584,"Heinsberg, Kreis Heinsberg, Nordrhein-Westfalen, 52525, Deutschland","(51.0654268, 6.0984461, 0.0)",51.0654268,6.0984461,0.0
+98,LK Helmstedt,147,1,81,"Helmstedt, Landkreis Helmstedt, Niedersachsen, 38350, Deutschland","(52.2277037, 11.0104702, 0.0)",52.2277037,11.0104702,0.0
+99,LK Herford,319,5,285,"Herford-Stadt, Herford, Kreis Herford, Nordrhein-Westfalen, Deutschland","(52.1152245, 8.6711118, 0.0)",52.1152245,8.6711118,0.0
+100,LK Hersfeld-Rotenburg,194,22,151,,,,,
+101,LK Herzogtum Lauenburg,261,9,219,"Köthel (Herzogtum Lauenburg), Schwarzenbek-Land, Herzogtum Lauenburg, Schleswig-Holstein, 22929, Deutschland","(53.6082248, 10.5105236, 0.0)",53.6082248,10.5105236,0.0
+102,LK Hildburghausen,22,1,15,"Hildburghausen, Landkreis Hildburghausen, Thüringen, Deutschland","(50.4266785, 10.7296992, 0.0)",50.4266785,10.7296992,0.0
+103,LK Hildesheim,285,3,233,"Hildesheim, Landkreis Hildesheim, Niedersachsen, Deutschland","(52.1521636, 9.9513046, 0.0)",52.1521636,9.9513046,0.0
+104,LK Hochsauerlandkreis,581,15,539,,,,,
+105,LK Hochtaunuskreis,238,5,214,,,,,
+106,LK Hof,387,24,294,"Hof, Matug, Wartau, Wahlkreis Werdenberg, Sankt Gallen, 9478, Switzerland","(47.0815082, 9.4756892, 0.0)",47.0815082,9.4756892,0.0
+107,LK Hohenlohekreis,741,37,601,,,,,
+108,LK Holzminden,105,5,93,"Holzminden, Landkreis Holzminden, Niedersachsen, 37603, Deutschland","(51.828835, 9.4466591, 0.0)",51.828835,9.4466591,0.0
+109,LK Höxter,285,6,240,"Höxter, Kreis Höxter, Nordrhein-Westfalen, 37671, Deutschland","(51.7747369, 9.3816877, 0.0)",51.7747369,9.3816877,0.0
+110,LK Ilm-Kreis,121,4,105,,,,,
+111,LK Jerichower Land,33,2,27,,,,,
+112,LK Kaiserslautern,97,0,81,"Kaiserslautern, Rheinland-Pfalz, 67655, Deutschland","(49.4432174, 7.7689951, 0.0)",49.4432174,7.7689951,0.0
+113,LK Karlsruhe,890,59,713,"Karlsruhe, Baden-Württemberg, Deutschland","(49.0068705, 8.4034195, 0.0)",49.0068705,8.4034195,0.0
+114,LK Kassel,322,22,198,"Kassel, Hessen, 34117, Deutschland","(51.3154546, 9.4924096, 0.0)",51.3154546,9.4924096,0.0
+115,LK Kelheim,430,31,352,"Kelheim, Landkreis Kelheim, Bayern, 93309, Deutschland","(48.9187285, 11.8727886, 0.0)",48.9187285,11.8727886,0.0
+116,LK Kitzingen,170,3,91,"Kitzingen, Landkreis Kitzingen, Bayern, Deutschland","(49.7339751, 10.161216, 0.0)",49.7339751,10.161216,0.0
+117,LK Kleve,579,24,411,"Kleve, Kreis Kleve, Nordrhein-Westfalen, 47533, Deutschland","(51.7854839, 6.131367415330141, 0.0)",51.7854839,6.131367415330141,0.0
+118,LK Konstanz,431,10,300,"Konstanz, Verwaltungsgemeinschaft Konstanz, Landkreis Konstanz, Baden-Württemberg, Deutschland","(47.659216, 9.1750718, 0.0)",47.659216,9.1750718,0.0
+119,LK Kronach,128,3,105,"Kronach, Landkreis Kronach, Bayern, 96317, Deutschland","(50.2397846, 11.3277669, 0.0)",50.2397846,11.3277669,0.0
+120,LK Kulmbach,204,11,165,"Kulmbach, Landkreis Kulmbach, Bayern, 95326, Deutschland","(50.1008448, 11.4479149, 0.0)",50.1008448,11.4479149,0.0
+121,LK Kusel,85,1,79,"Kusel, Kusel-Altenglan, Landkreis Kusel, Rheinland-Pfalz, 66869, Deutschland","(49.5399844, 7.4008479, 0.0)",49.5399844,7.4008479,0.0
+122,LK Kyffhäuserkreis,39,0,35,,,,,
+123,LK Lahn-Dill-Kreis,334,15,296,"Intersport Link, Walter-Schwahn-Straße, Kernstadt, Herborn, Lahn-Dill-Kreis, Hessen, 35745, Deutschland","(50.668971, 8.3087446, 0.0)",50.668971,8.3087446,0.0
+124,LK Landsberg a.Lech,329,10,174,"Landsberg am Lech, Landkreis Landsberg am Lech, Bayern, 86899, Deutschland","(48.0514973, 10.8737728, 0.0)",48.0514973,10.8737728,0.0
+125,LK Landshut,641,27,498,"Landshut, Bayern, Deutschland","(48.536217, 12.1516551, 0.0)",48.536217,12.1516551,0.0
+126,LK Leer,95,2,84,"Leer, Landkreis Leer, Niedersachsen, 26789, Deutschland","(53.2327625, 7.4577265, 0.0)",53.2327625,7.4577265,0.0
+127,LK Leipzig,186,4,167,"Leipzig, Sachsen, 04109, Deutschland","(51.3406321, 12.3747329, 0.0)",51.3406321,12.3747329,0.0
+128,LK Lichtenfels,198,2,170,"Lichtenfels, Landkreis Lichtenfels, Bayern, 96215, Deutschland","(50.14568, 11.06382, 0.0)",50.14568,11.06382,0.0
+129,LK Limburg-Weilburg,261,2,227,,,,,
+130,LK Lindau,239,6,204,"Lindau, Zerbst/Anhalt, Anhalt-Bitterfeld, Sachsen-Anhalt, Deutschland","(52.0460434, 12.09598462653253, 0.0)",52.0460434,12.09598462653253,0.0
+131,LK Lippe,706,29,595,"Lippe, Kreis Siegen-Wittgenstein, Nordrhein-Westfalen, Deutschland","(50.7087635, 8.0582678, 0.0)",50.7087635,8.0582678,0.0
+132,LK Ludwigsburg,1602,59,1276,"Ludwigsburg, Landkreis Ludwigsburg, Baden-Württemberg, Deutschland","(48.8953937, 9.1895147, 0.0)",48.8953937,9.1895147,0.0
+133,LK Ludwigslust-Parchim,68,2,54,"Ludwigslust, Ludwigslust-Parchim, Mecklenburg-Vorpommern, 19288, Deutschland","(53.3300229, 11.4993644, 0.0)",53.3300229,11.4993644,0.0
+134,LK Lörrach,633,46,454,"Lörrach, Verwaltungsgemeinschaft Lörrach, Landkreis Lörrach, Baden-Württemberg, Deutschland","(47.6120896, 7.6607218, 0.0)",47.6120896,7.6607218,0.0
+135,LK Lüchow-Dannenberg,18,2,12,"(13) Landhaandelsgebäude aus Kiefen, LK Lüchow-Dannenberg, um 1925 mit Austellung, Am Landtagsplatz, Olmsruh, Suderburg, Samtgemeinde Suderburg, Uelzen, Niedersachsen, 29556, Deutschland","(52.8446402, 10.408175029758517, 0.0)",52.8446402,10.408175029758517,0.0
+136,LK Lüneburg,164,0,161,"(14) Wegeweiser von der Landstraße 234 zwischen Diersbüttel und Amelinghausen, LK Lüneburg, Am Landtagsplatz, Olmsruh, Suderburg, Samtgemeinde Suderburg, Uelzen, Niedersachsen, 29556, Deutschland","(52.8445673, 10.4086235, 0.0)",52.8445673,10.4086235,0.0
+137,LK Main-Kinzig-Kreis,621,30,409,"Hundepension Link, Bahnhaus, Schlüchtern, Main-Kinzig-Kreis, Hessen, 36381, Deutschland","(50.3567574, 9.51110680977501, 0.0)",50.3567574,9.51110680977501,0.0
+138,LK Main-Spessart,143,6,129,,,,,
+139,LK Main-Tauber-Kreis,351,7,194,,,,,
+140,LK Main-Taunus-Kreis,264,6,192,,,,,
+141,LK Mainz-Bingen,383,14,308,"Weingut Link, Grabenstraße, Ockenheim, Gau-Algesheim, Landkreis Mainz-Bingen, Rheinland-Pfalz, 55437, Deutschland","(49.9448219, 7.9700699, 0.0)",49.9448219,7.9700699,0.0
+142,LK Mansfeld-Südharz,36,2,31,"Mansfeld, Mansfeld-Südharz, Sachsen-Anhalt, 06343, Deutschland","(51.593159, 11.4522586, 0.0)",51.593159,11.4522586,0.0
+143,LK Marburg-Biedenkopf,181,2,166,"Blumenhaus und Gärtnerei Link, Neuhöfe, Marburg, Landkreis Marburg-Biedenkopf, Hessen, 35041, Deutschland","(50.8002311, 8.7225043, 0.0)",50.8002311,8.7225043,0.0
+144,LK Mayen-Koblenz,346,13,290,"Mayen, Landkreis Mayen-Koblenz, Rheinland-Pfalz, Deutschland","(50.3283544, 7.2215134, 0.0)",50.3283544,7.2215134,0.0
+145,LK Mecklenburgische Seenplatte,109,3,100,"Berufliche Schule des LK Demmin, Saarstraße, Jägerhof, Demmin, Mecklenburgische Seenplatte, Mecklenburg-Vorpommern, 17109, Deutschland","(53.90243295, 13.06509835, 0.0)",53.90243295,13.06509835,0.0
+146,LK Meißen,217,16,171,"Meißen, Sachsen, 01662, Deutschland","(51.1630871, 13.4704939, 0.0)",51.1630871,13.4704939,0.0
+147,LK Merzig-Wadern,188,2,158,"Merzig, Landkreis Merzig-Wadern, Saarland, 66663, Deutschland","(49.4427023, 6.6374902, 0.0)",49.4427023,6.6374902,0.0
+148,LK Mettmann,842,58,653,"Mettmann, Kreis Mettmann, Nordrhein-Westfalen, 40822, Deutschland","(51.2527778, 6.9777778, 0.0)",51.2527778,6.9777778,0.0
+149,LK Miesbach,507,7,405,"Miesbach, Landkreis Miesbach, Bayern, 83714, Deutschland","(47.790025, 11.8335417, 0.0)",47.790025,11.8335417,0.0
+150,LK Miltenberg,268,4,239,"Miltenberg, Landkreis Miltenberg, Bayern, 63897, Deutschland","(49.7017584, 9.2559718, 0.0)",49.7017584,9.2559718,0.0
+151,LK Minden-Lübbecke,418,7,365,"Minden, Kreis Minden-Lübbecke, Nordrhein-Westfalen, Deutschland","(52.2881045, 8.9168852, 0.0)",52.2881045,8.9168852,0.0
+152,LK Mittelsachsen,243,5,209,"62, Frankenau, Mittweida, Mittelsachsen, Sachsen, 09648, Deutschland","(50.9857324, 12.944807951271759, 0.0)",50.9857324,12.944807951271759,0.0
+153,LK Märkisch-Oderland,203,3,178,,,,,
+154,LK Märkischer Kreis,557,22,395,,,,,
+155,LK Mühldorf a.Inn,476,21,303,"Mühldorf a. Inn, Landkreis Mühldorf am Inn, Bayern, 84453, Deutschland","(48.2405007, 12.5250991, 0.0)",48.2405007,12.5250991,0.0
+156,LK München,1247,32,777,"München, Bayern, Deutschland","(48.1371079, 11.5753822, 0.0)",48.1371079,11.5753822,0.0
+157,LK Neckar-Odenwald-Kreis,359,15,195,"Franz-Leopold-Link-Straße, Dörrebrunnen, Neusaß, Walldürn, Verwaltungsverband Hardheim-Walldürn, Neckar-Odenwald-Kreis, Baden-Württemberg, 74731, Deutschland","(49.5759777, 9.3570723, 0.0)",49.5759777,9.3570723,0.0
+158,LK Neu-Ulm,405,18,348,"Neu-Ulm, Landkreis Neu-Ulm, Bayern, Deutschland","(48.3954965, 10.00589, 0.0)",48.3954965,10.00589,0.0
+159,LK Neuburg-Schrobenhausen,264,12,203,,,,,
+160,LK Neumarkt i.d.OPf.,342,12,244,"Neumarkt in der Oberpfalz, Landkreis Neumarkt in der Oberpfalz, Bayern, 92318, Deutschland","(49.279624, 11.4594662, 0.0)",49.279624,11.4594662,0.0
+161,LK Neunkirchen,234,6,208,"19, Peischingerstraße, Gemeinde Neunkirchen, Bezirk Neunkirchen, Niederösterreich, 2620, Österreich","(47.726307500000004, 16.087073778596974, 0.0)",47.726307500000004,16.087073778596974,0.0
+162,LK Neustadt a.d.Aisch-Bad Windsheim,213,6,161,,,,,
+163,LK Neustadt a.d.Waldnaab,764,46,580,"Neustadt an der Waldnaab, Landkreis Neustadt an der Waldnaab, Bayern, 92660, Deutschland","(49.7314121, 12.1732938, 0.0)",49.7314121,12.1732938,0.0
+164,LK Neuwied,202,4,157,"Neuwied, Landkreis Neuwied, Rheinland-Pfalz, Deutschland","(50.4302589, 7.4663112, 0.0)",50.4302589,7.4663112,0.0
+165,LK Nienburg (Weser),68,2,56,"Nienburg/Weser, Landkreis Nienburg/Weser, Niedersachsen, Deutschland","(52.6410849, 9.2181918, 0.0)",52.6410849,9.2181918,0.0
+166,LK Nordfriesland,78,1,68,"Gewerbepark Mittleres Nordfriesland, Bredstedt, Mittleres Nordfriesland, Nordfriesland, Schleswig-Holstein, 25821, Deutschland","(54.6317522, 8.98221027980865, 0.0)",54.6317522,8.98221027980865,0.0
+167,LK Nordhausen,58,1,45,"Nordhausen, Landkreis Nordhausen, Thüringen, 99734, Deutschland","(51.5051574, 10.7925317, 0.0)",51.5051574,10.7925317,0.0
+168,LK Nordsachsen,132,0,102,"Rindfleischverkauf, Dübener Straße, Löbnitz, Nordsachsen, Sachsen, 04509, Deutschland","(51.592651, 12.4705675, 0.0)",51.592651,12.4705675,0.0
+169,LK Nordwestmecklenburg,76,1,70,,,,,
+170,LK Northeim,108,1,86,"Northeim, Landkreis Northeim, Niedersachsen, 37154, Deutschland","(51.705401, 9.9972782, 0.0)",51.705401,9.9972782,0.0
+171,LK Nürnberger Land,587,36,464,"LK, Eisenschlag 22, Schwarzenbruck, Landkreis Roth, Bayern, 90592, Deutschland","(49.3445706, 11.2350478, 0.0)",49.3445706,11.2350478,0.0
+172,LK Oberallgäu,167,7,153,"Ferienhof Schwarzenbühl, An der Argen, Wilhams, Thalerhöhe, Missen-Wilhams, Weitnau (VGem), Landkreis Oberallgäu, Bayern, 87547, Deutschland","(47.5989602, 10.1145598, 0.0)",47.5989602,10.1145598,0.0
+173,LK Oberbergischer Kreis,449,13,385,,,,,
+174,LK Oberhavel,261,5,173,"Tierheim Oberhavel, Neubau, Tornow, Fürstenberg/Havel, Oberhavel, Brandenburg, 16798, Deutschland","(53.06665155, 13.27659177965574, 0.0)",53.06665155,13.27659177965574,0.0
+175,LK Oberspreewald-Lausitz,41,2,36,,,,,
+176,LK Odenwaldkreis,351,48,199,,,,,
+177,LK Oder-Spree,119,2,98,,,,,
+178,LK Offenbach,461,26,334,"Offenbach am Main, Hessen, 63065, Deutschland","(50.1055002, 8.7610698, 0.0)",50.1055002,8.7610698,0.0
+179,LK Oldenburg,210,10,179,"Oldenburg, Niedersachsen, 26122, Deutschland","(53.1389753, 8.2146017, 0.0)",53.1389753,8.2146017,0.0
+180,LK Olpe,558,37,433,"Olpe, Kreis Olpe, Nordrhein-Westfalen, 57462, Deutschland","(51.0297603, 7.8424193, 0.0)",51.0297603,7.8424193,0.0
+181,LK Ortenaukreis,1028,85,778,"Sanitätshaus Link, Metzgerstraße, Christliches Jugenddorf (CJD), Bleiche, Offenburg, Verwaltungsgemeinschaft Offenburg, Ortenaukreis, Baden-Württemberg, 77652, Deutschland","(48.470406, 7.9433245, 0.0)",48.470406,7.9433245,0.0
+182,LK Osnabrück,941,40,818,"Osnabrück, Niedersachsen, 49074, Deutschland","(52.266837, 8.049741, 0.0)",52.266837,8.049741,0.0
+183,LK Ostalbkreis,1165,21,723,"LK Lorcher Klimatechnik GmbH & Co.KG, Lorcher Straße, Waldhausen, Waldhäuser Mühle, Lorch, Ostalbkreis, Baden-Württemberg, 73547, Deutschland","(48.7910013, 9.647238, 0.0)",48.7910013,9.647238,0.0
+184,LK Ostallgäu,486,31,424,"Milchverwertung Ostallgäu, Unterprost, Rückholz, Seeg (VGem), Landkreis Ostallgäu, Bayern, 87494, Deutschland","(47.6664461, 10.53938963546652, 0.0)",47.6664461,10.53938963546652,0.0
+185,LK Osterholz,81,0,71,"Osterholz, Stadtbezirk Bremen-Ost, Bremen, 28307, Deutschland","(53.055514, 8.9507122, 0.0)",53.055514,8.9507122,0.0
+186,LK Ostholstein,66,0,58,,,,,
+187,LK Ostprignitz-Ruppin,66,0,33,,,,,
+188,LK Paderborn,575,26,486,"Paderborn, Kreis Paderborn, Nordrhein-Westfalen, Deutschland","(51.71895955, 8.764869778177559, 0.0)",51.71895955,8.764869778177559,0.0
+189,LK Passau,501,20,367,"Passau, Bayern, 94032, Deutschland","(48.5748229, 13.4609744, 0.0)",48.5748229,13.4609744,0.0
+190,LK Peine,138,10,119,"Peine, Landkreis Peine, Niedersachsen, Deutschland","(52.3217849, 10.2349489, 0.0)",52.3217849,10.2349489,0.0
+191,LK Pfaffenhofen a.d.Ilm,330,17,274,"Pfaffenhofen an der Ilm, Landkreis Pfaffenhofen an der Ilm, Bayern, 85276, Deutschland","(48.5296743, 11.5084954, 0.0)",48.5296743,11.5084954,0.0
+192,LK Pinneberg,540,29,385,"Pinneberg, Schleswig-Holstein, Deutschland","(53.6615506, 9.7968682, 0.0)",53.6615506,9.7968682,0.0
+193,LK Plön,118,6,96,"Plön, Schleswig-Holstein, 24306, Deutschland","(54.158082, 10.41771, 0.0)",54.158082,10.41771,0.0
+194,LK Potsdam-Mittelmark,397,17,267,,,,,
+195,LK Prignitz,22,0,20,"Priegnitz, Bastionengürtel, Altstadt, Stralsund, Vorpommern-Rügen, Mecklenburg-Vorpommern, 18439, Deutschland","(54.311889, 13.0938001, 0.0)",54.311889,13.0938001,0.0
+196,LK Rastatt,486,13,380,"Link, Hauptstraße, Hänferdorf, Kappelwindeck, Bühl, Vereinbarte Verwaltungsgemeinschaft Bühl, Landkreis Rastatt, Baden-Württemberg, 77815, Deutschland","(48.6939794, 8.1352496, 0.0)",48.6939794,8.1352496,0.0
+197,LK Ravensburg,524,6,434,"Ravensburg, Verwaltungsverband Mittleres Schussental, Landkreis Ravensburg, Baden-Württemberg, Deutschland","(47.7811014, 9.612468, 0.0)",47.7811014,9.612468,0.0
+198,LK Recklinghausen,1025,23,784,"Recklinghausen, Kreis Recklinghausen, Nordrhein-Westfalen, Deutschland","(51.6143815, 7.1978546, 0.0)",51.6143815,7.1978546,0.0
+199,LK Regen,161,4,98,"Regen, Landkreis Regen, Bayern, 94209, Deutschland","(48.9700842, 13.1262631, 0.0)",48.9700842,13.1262631,0.0
+200,LK Regensburg,396,7,346,"Regensburg, Bayern, 93047, Deutschland","(49.0195333, 12.0974869, 0.0)",49.0195333,12.0974869,0.0
+201,LK Rems-Murr-Kreis,1303,52,672,"Hofladen Link, Adelstetter Straße, Enderbach, Alfdorf, Rems-Murr-Kreis, Baden-Württemberg, 73553, Deutschland","(48.8566547, 9.7419949, 0.0)",48.8566547,9.7419949,0.0
+202,LK Rendsburg-Eckernförde,233,14,192,"Rendsburg, Rendsburg-Eckernförde, Schleswig-Holstein, 24768, Deutschland","(54.3046701, 9.6645115, 0.0)",54.3046701,9.6645115,0.0
+203,LK Reutlingen,1445,53,646,"Reutlingen, Landkreis Reutlingen, Baden-Württemberg, Deutschland","(48.4919508, 9.2114144, 0.0)",48.4919508,9.2114144,0.0
+204,LK Rhein-Erft-Kreis,959,55,745,,,,,
+205,LK Rhein-Hunsrück-Kreis,174,3,148,,,,,
+206,LK Rhein-Kreis Neuss,590,19,525,,,,,
+207,LK Rhein-Lahn-Kreis,151,5,145,,,,,
+208,LK Rhein-Neckar-Kreis,867,28,760,"Meckesheimer Straße, Eschelbronn, Verwaltungsverband Elsenztal, Rhein-Neckar-Kreis, Baden-Württemberg, 74927, Deutschland","(49.3206494, 8.8517149, 0.0)",49.3206494,8.8517149,0.0
+209,LK Rhein-Pfalz-Kreis,206,3,178,,,,,
+210,LK Rhein-Sieg-Kreis,1151,27,945,,,,,
+211,LK Rheingau-Taunus-Kreis,195,3,185,"Theodor Link, Weiherwiese, Idstein, Rheingau-Taunus-Kreis, Hessen, 65510, Deutschland","(50.2204089, 8.2735907, 0.0)",50.2204089,8.2735907,0.0
+212,LK Rheinisch-Bergischer Kreis,425,15,374,,,,,
+213,LK Rhön-Grabfeld,186,4,141,"Outdoor Link, Hauptstraße, Lindenhof, Mellrichstadt, Mellrichstadt (VGem), Landkreis Rhön-Grabfeld, Bayern, 97638, Deutschland","(50.4276702, 10.302113, 0.0)",50.4276702,10.302113,0.0
+214,LK Rosenheim,2001,120,957,"Rosenheim, Bayern, 83022, Deutschland","(47.8539273, 12.127262, 0.0)",47.8539273,12.127262,0.0
+215,LK Rostock,58,3,51,"Rostock, Mecklenburg-Vorpommern, Deutschland","(54.0924445, 12.1286127, 0.0)",54.0924445,12.1286127,0.0
+216,LK Rotenburg (Wümme),96,1,86,"Rotenburg (Wümme), Niedersachsen, 27356, Deutschland","(53.1108906, 9.4049292, 0.0)",53.1108906,9.4049292,0.0
+217,LK Roth,282,7,257,"LK, Eisenschlag 22, Schwarzenbruck, Landkreis Roth, Bayern, 90592, Deutschland","(49.3445706, 11.2350478, 0.0)",49.3445706,11.2350478,0.0
+218,LK Rottal-Inn,693,39,599,,,,,
+219,LK Rottweil,601,18,271,"Rottweil, Verwaltungsgemeinschaft Rottweil, Landkreis Rottweil, Baden-Württemberg, 78628, Deutschland","(48.165531, 8.6251283, 0.0)",48.165531,8.6251283,0.0
+220,LK Saale-Holzland-Kreis,56,1,49,,,,,
+221,LK Saale-Orla-Kreis,123,11,87,"Link, Langer Weg, Lobenstein, Bad Lobenstein, Saale-Orla-Kreis, Thüringen, 07356, Deutschland","(50.4496819, 11.6513, 0.0)",50.4496819,11.6513,0.0
+222,LK Saalekreis,108,5,88,"12, Nietleben, Halle (Saale), Sachsen-Anhalt, 06126, Deutschland","(51.468408749999995, 11.90154089616789, 0.0)",51.468408749999995,11.90154089616789,0.0
+223,LK Saalfeld-Rudolstadt,63,0,55,"Saalfeld, Landkreis Saalfeld-Rudolstadt, Thüringen, 07318, Deutschland","(50.6481277, 11.3616652, 0.0)",50.6481277,11.3616652,0.0
+224,LK Saar-Pfalz-Kreis,277,9,248,,,,,
+225,LK Saarlouis,512,18,421,"Saarlouis, Landkreis Saarlouis, Saarland, 66740, Deutschland","(49.3164661, 6.749846, 0.0)",49.3164661,6.749846,0.0
+226,LK Salzlandkreis,64,0,59,,,,,
+227,LK Sankt Wendel,139,4,129,"Link, Im Bremmer, Niederkirchen, Sankt Wendel, Landkreis St. Wendel, Saarland, 66606, Deutschland","(49.4703378, 7.2501256168345725, 0.0)",49.4703378,7.2501256168345725,0.0
+228,LK Schaumburg,146,6,117,"Schaumburg, Cook County, Illinois, United States of America","(42.0333608, -88.083406, 0.0)",42.0333608,-88.083406,0.0
+229,LK Schleswig-Flensburg,126,3,116,"Link und Ehrich, Satruper Straße, Kattbek, Böklund, Südangeln, Schleswig-Flensburg, Schleswig-Holstein, 24860, Deutschland","(54.6044341, 9.5833714, 0.0)",54.6044341,9.5833714,0.0
+230,LK Schmalkalden-Meiningen,94,2,65,"Schmalkalden, Landkreis Schmalkalden-Meiningen, Thüringen, 98574, Deutschland","(50.7213643, 10.4510467, 0.0)",50.7213643,10.4510467,0.0
+231,LK Schwalm-Eder-Kreis,466,29,375,,,,,
+232,LK Schwandorf,429,14,331,"Schwandorf, Landkreis Schwandorf, Bayern, 92421, Deutschland","(49.3261854, 12.1092708, 0.0)",49.3261854,12.1092708,0.0
+233,LK Schwarzwald-Baar-Kreis,492,16,412,"Christian-Link-Straße, Schwenningen, Villingen-Schwenningen, Verwaltungsgemeinschaft Villingen-Schwenningen, Schwarzwald-Baar-Kreis, Baden-Württemberg, 78056, Deutschland","(48.0637145, 8.547844, 0.0)",48.0637145,8.547844,0.0
+234,LK Schweinfurt,448,21,335,"Schweinfurt, Bayern, 97421, Deutschland","(50.0499945, 10.233302, 0.0)",50.0499945,10.233302,0.0
+235,LK Schwäbisch Hall,799,46,554,"Schwäbisch Hall, Verwaltungsgemeinschaft Schwäbisch Hall, Landkreis Schwäbisch Hall, Baden-Württemberg, 74523, Deutschland","(49.1123963, 9.7369047, 0.0)",49.1123963,9.7369047,0.0
+236,LK Segeberg,219,3,197,"Sege, Dangme East, Greater Accra Region, Ghana","(5.8749479, 0.3616909, 0.0)",5.8749479,0.3616909,0.0
+237,LK Siegen-Wittgenstein,278,8,243,"Siegen, Kreis Siegen-Wittgenstein, Nordrhein-Westfalen, Deutschland","(50.8749804, 8.0227233, 0.0)",50.8749804,8.0227233,0.0
+238,LK Sigmaringen,767,30,641,"Sigmaringen, Gemeindeverwaltungsverband Sigmaringen, Landkreis Sigmaringen, Baden-Württemberg, 72488, Deutschland","(48.0855844, 9.2178879, 0.0)",48.0855844,9.2178879,0.0
+239,LK Soest,342,5,318,"Soest, Kreis Soest, Nordrhein-Westfalen, Deutschland","(51.5725501, 8.1061259, 0.0)",51.5725501,8.1061259,0.0
+240,LK Sonneberg,98,2,54,"Sonneberg, Landkreis Sonneberg, Thüringen, 96515, Deutschland","(50.3575412, 11.1691714, 0.0)",50.3575412,11.1691714,0.0
+241,LK Spree-Neiße,65,0,54,,,,,
+242,LK Stade,189,7,169,"Stade, Niedersachsen, Deutschland","(53.599794, 9.475438, 0.0)",53.599794,9.475438,0.0
+243,LK Stadtverband Saarbrücken,1200,92,952,"Rainer Link, Försterstraße, Nauwieser Viertel, Sankt Johann, Bezirk Mitte, Saarbrücken, Regionalverband Saarbrücken, Saarland, 66111, Deutschland","(49.2355049, 6.9986907, 0.0)",49.2355049,6.9986907,0.0
+244,LK Starnberg,499,9,467,"Starnberg, Landkreis Starnberg, Bayern, 82319, Deutschland","(48.0001038, 11.3508972, 0.0)",48.0001038,11.3508972,0.0
+245,LK Steinburg,82,3,69,"Steinburg, Wegern, Hunderdorf, Hunderdorf (VGem), Landkreis Straubing-Bogen, Bayern, 94336, Deutschland","(48.962967, 12.7403323, 0.0)",48.962967,12.7403323,0.0
+246,LK Steinfurt,1246,60,1036,"Borghorst, Steinfurt, Kreis Steinfurt, Nordrhein-Westfalen, 48565, Deutschland","(52.1294289, 7.3903454, 0.0)",52.1294289,7.3903454,0.0
+247,LK Stendal,99,6,81,"Stendal, Sachsen-Anhalt, Deutschland","(52.6051341, 11.8593217, 0.0)",52.6051341,11.8593217,0.0
+248,LK Stormarn,384,22,235,"Stormarn, Hällskär, Norrsundet, Gävle kommun, Gävleborgs län, Norrland, 81730, Sverige","(60.9279507, 17.130861, 0.0)",60.9279507,17.130861,0.0
+249,LK Straubing-Bogen,439,17,324,"Bogen, Landkreis Straubing-Bogen, Bayern, 94327, Deutschland","(48.9054199, 12.6920742, 0.0)",48.9054199,12.6920742,0.0
+250,LK Sächsische Schweiz-Osterzgebirge,333,2,216,,,,,
+251,LK Sömmerda,36,0,34,"Sömmerda, Landkreis Sömmerda, Thüringen, 99610, Deutschland","(51.1620125, 11.1178539, 0.0)",51.1620125,11.1178539,0.0
+252,LK Südliche Weinstraße,146,2,132,"Weinstraße, Bad Bergzabern, Landkreis Südliche Weinstraße, Rheinland-Pfalz, 76887, Deutschland","(49.1029885, 8.0019266, 0.0)",49.1029885,8.0019266,0.0
+253,LK Südwestpfalz,105,3,96,,,,,
+254,LK Teltow-Fläming,125,8,92,,,,,
+255,LK Tirschenreuth,1113,113,916,"Tirschenreuth, Landkreis Tirschenreuth, Bayern, 95643, Deutschland","(49.8780269, 12.3372014, 0.0)",49.8780269,12.3372014,0.0
+256,LK Traunstein,1114,58,808,"Traunstein, Landkreis Traunstein, Bayern, 83278, Deutschland","(47.8701474, 12.6423403, 0.0)",47.8701474,12.6423403,0.0
+257,LK Trier-Saarburg,180,5,148,"Saarburg, Saarburg-Kell, Landkreis Trier-Saarburg, Rheinland-Pfalz, 54439, Deutschland","(49.6082527, 6.548746, 0.0)",49.6082527,6.548746,0.0
+258,LK Tuttlingen,466,13,351,"Link, Ernst-Haller-Straße, Gölten, Hirschweidenhof, Trossingen, Verwaltungsgemeinschaft Trossingen, Landkreis Tuttlingen, Baden-Württemberg, 78647, Deutschland","(48.0716465, 8.6348371, 0.0)",48.0716465,8.6348371,0.0
+259,LK Tübingen,1217,43,1064,"Tübingen, Landkreis Tübingen, Baden-Württemberg, Deutschland","(48.5236164, 9.0535531, 0.0)",48.5236164,9.0535531,0.0
+260,LK Uckermark,35,1,29,"Strasburg (Uckermark), Vorpommern-Greifswald, Mecklenburg-Vorpommern, 17335, Deutschland","(53.5084448, 13.7434101, 0.0)",53.5084448,13.7434101,0.0
+261,LK Uelzen,41,0,37,"(23) Außenschafstall asu Bohlsen, LK Uelzen, von 1850, Heide-Entdeckerpfad, Olmsruh, Suderburg, Samtgemeinde Suderburg, Uelzen, Niedersachsen, 29556, Deutschland","(52.845649449999996, 10.411166257386078, 0.0)",52.845649449999996,10.411166257386078,0.0
+262,LK Unna,598,25,511,"Unna, Kreis Unna, Nordrhein-Westfalen, Deutschland","(51.5348835, 7.689014, 0.0)",51.5348835,7.689014,0.0
+263,LK Unstrut-Hainich-Kreis,74,2,58,"Unstrut-Hainich, Unstrut-Hainich-Kreis, Thüringen, 99991, Deutschland","(51.121789, 10.495754338907574, 0.0)",51.121789,10.495754338907574,0.0
+264,LK Unterallgäu,269,13,184,"Link Fischzucht, Gartenstraße, Heimertingen, Boos, Landkreis Unterallgäu, Bayern, 87751, Deutschland","(48.0325268, 10.1483028, 0.0)",48.0325268,10.1483028,0.0
+265,LK Vechta,308,10,278,"Vechta, Landkreis Vechta, Niedersachsen, 49377, Deutschland","(52.7310691, 8.2873162, 0.0)",52.7310691,8.2873162,0.0
+266,LK Verden,118,2,112,"Verden, Verden (Aller), Landkreis Verden, Niedersachsen, 27283, Deutschland","(52.922341, 9.228153, 0.0)",52.922341,9.228153,0.0
+267,LK Viersen,616,28,461,"Viersen, Kreis Viersen, Nordrhein-Westfalen, Deutschland","(51.2562118, 6.3905476, 0.0)",51.2562118,6.3905476,0.0
+268,LK Vogelsbergkreis,121,5,103,,,,,
+269,LK Vogtlandkreis,317,6,266,,,,,
+270,LK Vorpommern-Greifswald,135,4,110,"Berufliche EUROPA-Schule des LK VG, Lindenstraße, Binning, Eggesin, Am Stettiner Haff, Vorpommern-Greifswald, Mecklenburg-Vorpommern, 17367, Deutschland","(53.678354, 14.0781134, 0.0)",53.678354,14.0781134,0.0
+271,LK Vorpommern-Rügen,79,2,72,,,,,
+272,LK Vulkaneifel,110,4,87,"Link-Automobile, Vor der Dell, Dockweiler, Daun, Landkreis Vulkaneifel, Rheinland-Pfalz, 54552, Deutschland","(50.2494317, 6.793262, 0.0)",50.2494317,6.793262,0.0
+273,LK Waldeck-Frankenberg,143,3,119,"Frankenberg, Landkreis Waldeck-Frankenberg, Hessen, 35066, Deutschland","(51.07226815, 8.771039671994767, 0.0)",51.07226815,8.771039671994767,0.0
+274,LK Waldshut,301,35,208,"Waldshut, Waldshut-Tiengen, Verwaltungsgemeinschaft Waldshut-Tiengen, Landkreis Waldshut, Baden-Württemberg, 79761, Deutschland","(47.6246179, 8.2120605, 0.0)",47.6246179,8.2120605,0.0
+275,LK Warendorf,458,12,403,"Warendorf, Kreis Warendorf, Nordrhein-Westfalen, 48231, Deutschland","(51.9532449, 7.9912335, 0.0)",51.9532449,7.9912335,0.0
+276,LK Wartburgkreis,41,0,34,"Leimbach Lk, B 62, Leimbach, Bad Salzungen, Wartburgkreis, Thüringen, 36433, Deutschland","(50.81979275, 10.186748718925424, 0.0)",50.81979275,10.186748718925424,0.0
+277,LK Weilheim-Schongau,321,3,295,"Weilheim in Oberbayern, Landkreis Weilheim-Schongau, Bayern, 82362, Deutschland","(47.8395072, 11.1416355, 0.0)",47.8395072,11.1416355,0.0
+278,LK Weimarer Land,68,4,61,,,,,
+279,LK Weißenburg-Gunzenhausen,289,12,231,"Kinderwagen Link, Bahnhofstraße, Weißenburg i. Bay., Landkreis Weißenburg-Gunzenhausen, Bayern, 91781, Deutschland","(49.0285061, 10.9700779, 0.0)",49.0285061,10.9700779,0.0
+280,LK Werra-Meißner-Kreis,165,12,86,"Werra Meißner Kreis, Domäne Vogelsburg, Eschwege, Werra-Meißner-Kreis, Hessen, 37269, Deutschland","(51.191773600000005, 10.048003345226277, 0.0)",51.191773600000005,10.048003345226277,0.0
+281,LK Wesel,509,21,420,"Wesel, Kreis Wesel, Nordrhein-Westfalen, Deutschland","(51.6576909, 6.617087, 0.0)",51.6576909,6.617087,0.0
+282,LK Wesermarsch,51,1,50,"Gewerbegebiet Wesermarsch-Mitte, Petershörne, Ovelgönne, Landkreis Wesermarsch, Niedersachsen, 26939, Deutschland","(53.3271284, 8.425568651285682, 0.0)",53.3271284,8.425568651285682,0.0
+283,LK Westerwaldkreis,326,20,274,"Hotel Link, Hauptstraße, Neuhäusel, Montabaur, Westerwaldkreis, Rheinland-Pfalz, 56335, Deutschland","(50.3851392, 7.7113189, 0.0)",50.3851392,7.7113189,0.0
+284,LK Wetteraukreis,265,12,213,"Caroline Link, Parkstraße, Bad Nauheim, Wetteraukreis, Hessen, 61231, Deutschland","(50.3652749, 8.7423296, 0.0)",50.3652749,8.7423296,0.0
+285,LK Wittenberg,153,3,142,"Wittenberg, Sorgenfri, Lisleby, Fredrikstad, Viken, 1619, Norge","(59.2275114, 10.9738995, 0.0)",59.2275114,10.9738995,0.0
+286,LK Wittmund,24,0,23,"Wittmund, Landkreis Wittmund, Niedersachsen, 26409, Deutschland","(53.5792685, 7.7815477, 0.0)",53.5792685,7.7815477,0.0
+287,LK Wolfenbüttel,173,9,127,"Wolfenbüttel, Landkreis Wolfenbüttel, Niedersachsen, Deutschland","(52.1625283, 10.5348215, 0.0)",52.1625283,10.5348215,0.0
+288,LK Wunsiedel i.Fichtelgebirge,615,36,513,,,,,
+289,LK Würzburg,402,6,247,"Würzburg, Bayern, 97070, Deutschland","(49.79245, 9.932966, 0.0)",49.79245,9.932966,0.0
+290,LK Zollernalbkreis,1025,59,734,"Architekturbüro Link, Wilhelmstraße, Gemarkung Balingen, Balingen, Gemeindeverwaltungsverband Balingen, Zollernalbkreis, Baden-Württemberg, 72336, Deutschland","(48.2714654, 8.8488819, 0.0)",48.2714654,8.8488819,0.0
+291,LK Zwickau,758,34,603,"Zwickau, Sachsen, Deutschland","(50.7185043, 12.4939267, 0.0)",50.7185043,12.4939267,0.0
+292,Region Hannover,1853,61,1165,"Region Hannover, Niedersachsen, Deutschland","(52.4026852, 9.801197840611401, 0.0)",52.4026852,9.801197840611401,0.0
+293,SK Amberg,67,3,46,"Amberg, Bayern, 92224, Deutschland","(49.4454211, 11.858728, 0.0)",49.4454211,11.858728,0.0
+294,SK Ansbach,119,7,68,"Ansbach, Bayern, 91522, Deutschland","(49.3028611, 10.5722288, 0.0)",49.3028611,10.5722288,0.0
+295,SK Aschaffenburg,108,1,102,"Aschaffenburg, Bayern, 63739, Deutschland","(49.9740542, 9.1493636, 0.0)",49.9740542,9.1493636,0.0
+296,SK Augsburg,362,9,331,"Augsburg, Bayern, Deutschland","(48.3668041, 10.8986971, 0.0)",48.3668041,10.8986971,0.0
+297,SK Baden-Baden,174,18,108,"Baden-Baden, Baden-Württemberg, 76530, Deutschland","(48.7580777, 8.2415239, 0.0)",48.7580777,8.2415239,0.0
+298,SK Bamberg,182,15,114,"Bamberg, Bayern, 96047, Deutschland","(49.8916044, 10.8868478, 0.0)",49.8916044,10.8868478,0.0
+299,SK Bayreuth,188,7,158,"Bayreuth, Bayern, 95444, Deutschland","(49.9427202, 11.5763079, 0.0)",49.9427202,11.5763079,0.0
+300,SK Berlin Charlottenburg-Wilmersdorf,671,19,569,"Charlottenburg-Wilmersdorf, Berlin, Deutschland","(52.5078558, 13.2639518, 0.0)",52.5078558,13.2639518,0.0
+301,SK Berlin Friedrichshain-Kreuzberg,459,5,408,"Friedrichshain-Kreuzberg, Berlin, Deutschland","(52.5153063, 13.4616117, 0.0)",52.5153063,13.4616117,0.0
+302,SK Berlin Lichtenberg,241,7,179,"Berlin-Lichtenberg, Eitelstraße, Weitlingkiez, Rummelsburg, Lichtenberg, 10317, Deutschland","(52.5097832, 13.4961404, 0.0)",52.5097832,13.4961404,0.0
+303,SK Berlin Marzahn-Hellersdorf,289,2,225,"Berlin-Marzahn-Hellersdorf, Marzahn-Hellersdorf, Deutschland","(52.522464049999996, 13.58538383097715, 0.0)",52.522464049999996,13.58538383097715,0.0
+304,SK Berlin Mitte,861,10,744,"Berlin-Mitte, Berliner Ring, Cité Joffre, Wedding, Mitte, 13405, Deutschland","(52.53321645, 13.359795660679708, 0.0)",52.53321645,13.359795660679708,0.0
+305,SK Berlin Neukölln,631,21,528,"Berlin-Neukölln, Neukölln, Deutschland","(52.4454318, 13.44345982737298, 0.0)",52.4454318,13.44345982737298,0.0
+306,SK Berlin Pankow,602,19,478,"Pankow, Berlin, Deutschland","(52.597636699999995, 13.436373975411648, 0.0)",52.597636699999995,13.436373975411648,0.0
+307,SK Berlin Reinickendorf,451,20,352,"Berlin-Reinickendorf, Reinickendorf, Deutschland","(52.60484685, 13.288141469652064, 0.0)",52.60484685,13.288141469652064,0.0
+308,SK Berlin Spandau,237,6,192,"Berlin-Spandau, Am Bahnhof Spandau, Spandau, 13597, Deutschland","(52.5347694, 13.1956287, 0.0)",52.5347694,13.1956287,0.0
+309,SK Berlin Steglitz-Zehlendorf,485,12,406,"Berlin-Steglitz-Zehlendorf, Steglitz-Zehlendorf, Deutschland","(52.429591, 13.242024327857692, 0.0)",52.429591,13.242024327857692,0.0
+310,SK Berlin Tempelhof-Schöneberg,586,18,499,"Berlin-Tempelhof-Schöneberg, Tempelhof-Schöneberg, Berlin, Deutschland","(52.4404422, 13.388288723500661, 0.0)",52.4404422,13.388288723500661,0.0
+311,SK Berlin Treptow-Köpenick,306,8,257,"Berlin-Treptow-Köpenick, Treptow-Köpenick, Deutschland","(52.4179881, 13.626402590326276, 0.0)",52.4179881,13.626402590326276,0.0
+312,SK Bielefeld,380,3,218,"Bielefeld, Nordrhein-Westfalen, Deutschland","(52.0191005, 8.531007, 0.0)",52.0191005,8.531007,0.0
+313,SK Bochum,427,16,385,"Bochum, Nordrhein-Westfalen, Deutschland","(51.4818111, 7.2196635, 0.0)",51.4818111,7.2196635,0.0
+314,SK Bonn,648,6,546,"Bonn, Nordrhein-Westfalen, 53111, Deutschland","(50.735851, 7.10066, 0.0)",50.735851,7.10066,0.0
+315,SK Bottrop,146,6,97,"Bottrop, Nordrhein-Westfalen, 46236, Deutschland","(51.521581, 6.929204, 0.0)",51.521581,6.929204,0.0
+316,SK Brandenburg a.d.Havel,55,0,46,"Brandenburg an der Havel, Brandenburg, Deutschland","(52.4108261, 12.5497933, 0.0)",52.4108261,12.5497933,0.0
+317,SK Braunschweig,300,13,263,"Braunschweig, Niedersachsen, Deutschland","(52.2646577, 10.5236066, 0.0)",52.2646577,10.5236066,0.0
+318,SK Bremen,776,29,493,"Bremen, Deutschland","(53.0758196, 8.8071646, 0.0)",53.0758196,8.8071646,0.0
+319,SK Bremerhaven,49,0,27,"Bremerhaven, Bremen, Deutschland","(53.5522264, 8.5865509, 0.0)",53.5522264,8.5865509,0.0
+320,SK Chemnitz,192,5,155,"Chemnitz, Sachsen, 09111, Deutschland","(50.8322608, 12.9252977, 0.0)",50.8322608,12.9252977,0.0
+321,SK Coburg,52,0,42,"Coburg, Bayern, 96450, Deutschland","(50.258112, 10.964463, 0.0)",50.258112,10.964463,0.0
+322,SK Cottbus,39,0,37,"Cottbus - Chóśebuz, Brandenburg, 03046, Deutschland","(51.7567447, 14.3357307, 0.0)",51.7567447,14.3357307,0.0
+323,SK Darmstadt,198,11,131,"Darmstadt, Hessen, 64283, Deutschland","(49.872775, 8.651177, 0.0)",49.872775,8.651177,0.0
+324,SK Delmenhorst,45,2,31,"Delmenhorst, Niedersachsen, 27749, Deutschland","(53.048095, 8.6286066, 0.0)",53.048095,8.6286066,0.0
+325,SK Dessau-Roßlau,65,1,37,"Dessau-Roßlau, Sachsen-Anhalt, Deutschland","(51.8311104, 12.2429261, 0.0)",51.8311104,12.2429261,0.0
+326,SK Dortmund,676,6,599,"Dortmund, Nordrhein-Westfalen, 44135, Deutschland","(51.5142273, 7.4652789, 0.0)",51.5142273,7.4652789,0.0
+327,SK Dresden,507,6,451,"Dresden, Sachsen, 01069, Deutschland","(51.0493286, 13.7381437, 0.0)",51.0493286,13.7381437,0.0
+328,SK Duisburg,848,20,635,"Duisburg, Nordrhein-Westfalen, 47049, Deutschland","(51.434999, 6.759562, 0.0)",51.434999,6.759562,0.0
+329,SK Düsseldorf,1027,24,681,"Düsseldorf, Nordrhein-Westfalen, 40213, Deutschland","(51.2254018, 6.7763137, 0.0)",51.2254018,6.7763137,0.0
+330,SK Eisenach,21,1,12,"Eisenach, Thüringen, 99817, Deutschland","(50.9833, 10.3166999, 0.0)",50.9833,10.3166999,0.0
+331,SK Emden,16,0,16,"Emden, Niedersachsen, 26721, Deutschland","(53.3670541, 7.2058304, 0.0)",53.3670541,7.2058304,0.0
+332,SK Erfurt,133,2,123,"Erfurt, Thüringen, 99084, Deutschland","(50.9777974, 11.0287364, 0.0)",50.9777974,11.0287364,0.0
+333,SK Erlangen,233,6,201,"Erlangen, Bayern, 91052, Deutschland","(49.5981187, 11.003645, 0.0)",49.5981187,11.003645,0.0
+334,SK Essen,727,32,446,"Essen, Nordrhein-Westfalen, Deutschland","(51.4582235, 7.0158171, 0.0)",51.4582235,7.0158171,0.0
+335,SK Flensburg,33,2,31,"Flensburg, Schleswig-Holstein, 24937, Deutschland","(54.7833021, 9.4333264, 0.0)",54.7833021,9.4333264,0.0
+336,SK Frankenthal,41,2,31,"Frankenthal (Pfalz), Rheinland-Pfalz, 67227, Deutschland","(49.5445804, 8.3540061, 0.0)",49.5445804,8.3540061,0.0
+337,SK Frankfurt (Oder),27,0,24,"Frankfurt (Oder), Brandenburg, 15230, Deutschland","(52.3412273, 14.549452, 0.0)",52.3412273,14.549452,0.0
+338,SK Frankfurt am Main,1259,40,939,"Frankfurt am Main, Hessen, Deutschland","(50.1106444, 8.6820917, 0.0)",50.1106444,8.6820917,0.0
+339,SK Freiburg i.Breisgau,937,66,787,"Freiburg im Breisgau, Baden-Württemberg, Deutschland","(47.9960901, 7.8494005, 0.0)",47.9960901,7.8494005,0.0
+340,SK Fürth,327,28,211,"Fürth, Bayern, 90762, Deutschland","(49.477263, 10.989616, 0.0)",49.477263,10.989616,0.0
+341,SK Gelsenkirchen,335,10,264,"Gelsenkirchen, Nordrhein-Westfalen, Deutschland","(51.5110321, 7.0960124, 0.0)",51.5110321,7.0960124,0.0
+342,SK Gera,151,5,79,"Gera, Thüringen, Deutschland","(50.8772301, 12.0796208, 0.0)",50.8772301,12.0796208,0.0
+343,SK Hagen,249,6,163,"Hagen, Census Division No. 15, Saskatchewan, Canada","(52.9384012, -105.5594903, 0.0)",52.9384012,-105.5594903,0.0
+344,SK Halle,322,9,260,"Halle (Saale), Sachsen-Anhalt, 06108, Deutschland","(51.4825041, 11.9705452, 0.0)",51.4825041,11.9705452,0.0
+345,SK Hamburg,4557,154,3514,"Hamburg, Deutschland","(53.5437641, 10.0099133, 0.0)",53.5437641,10.0099133,0.0
+346,SK Hamm,442,31,333,"Hamm, Nordrhein-Westfalen, 59065, Deutschland","(51.6804093, 7.815197, 0.0)",51.6804093,7.815197,0.0
+347,SK Heidelberg,279,6,246,"Heidelberg, Baden-Württemberg, 69120, Deutschland","(49.4093582, 8.694724, 0.0)",49.4093582,8.694724,0.0
+348,SK Heilbronn,410,13,246,"Heilbronn, Baden-Württemberg, 74072, Deutschland","(49.142291, 9.218655, 0.0)",49.142291,9.218655,0.0
+349,SK Herne,162,1,109,"Herne, Nordrhein-Westfalen, 44623, Deutschland","(51.5380394, 7.219985, 0.0)",51.5380394,7.219985,0.0
+350,SK Hof,102,4,88,"Hof, Bayern, 95028, Deutschland","(50.3219015, 11.9178807, 0.0)",50.3219015,11.9178807,0.0
+351,SK Ingolstadt,396,25,317,"Ingolstadt, Bayern, 85057, Deutschland","(48.7630165, 11.4250395, 0.0)",48.7630165,11.4250395,0.0
+352,SK Jena,158,3,151,"Jena, Štefana Moyzesa, Prievidza, okres Prievidza, Trenčianský kraj, Západné Slovensko, 97101, Slovensko","(48.77264, 18.6226788, 0.0)",48.77264,18.6226788,0.0
+353,SK Kaiserslautern,117,3,86,"Kaiserslautern, Rheinland-Pfalz, 67655, Deutschland","(49.4432174, 7.7689951, 0.0)",49.4432174,7.7689951,0.0
+354,SK Karlsruhe,351,6,294,"Karlsruhe, Baden-Württemberg, Deutschland","(49.0068705, 8.4034195, 0.0)",49.0068705,8.4034195,0.0
+355,SK Kassel,257,6,180,"Kassel, Hessen, 34117, Deutschland","(51.3154546, 9.4924096, 0.0)",51.3154546,9.4924096,0.0
+356,SK Kaufbeuren,99,4,81,"Kaufbeuren, Bayern, 87600, Deutschland","(47.8803788, 10.622246, 0.0)",47.8803788,10.622246,0.0
+357,SK Kempten,101,9,86,"Kempten (Allgäu), Bayern, 87435, Deutschland","(47.7267063, 10.3168835, 0.0)",47.7267063,10.3168835,0.0
+358,SK Kiel,263,9,210,"Kiel, Schleswig-Holstein, 24103, Deutschland","(54.3227085, 10.135555, 0.0)",54.3227085,10.135555,0.0
+359,SK Koblenz,255,17,186,"SK Koblenz, An der Fähre, Metternich, Koblenz, Rheinland-Pfalz, 56072, Deutschland","(50.3574054, 7.559892, 0.0)",50.3574054,7.559892,0.0
+360,SK Krefeld,496,18,358,"Krefeld, Nordrhein-Westfalen, 47798, Deutschland","(51.3331205, 6.5623343, 0.0)",51.3331205,6.5623343,0.0
+361,SK Köln,2269,85,1979,"Köln, Nordrhein-Westfalen, Deutschland","(50.938361, 6.959974, 0.0)",50.938361,6.959974,0.0
+362,SK Landau i.d.Pfalz,56,0,50,"Landau in der Pfalz, Rheinland-Pfalz, 76829, Deutschland","(49.1982825, 8.1123441, 0.0)",49.1982825,8.1123441,0.0
+363,SK Landshut,267,9,209,"Landshut, Bayern, Deutschland","(48.536217, 12.1516551, 0.0)",48.536217,12.1516551,0.0
+364,SK Leipzig,564,6,433,"Leipzig, Census Division No. 13, Saskatchewan, Canada","(52.1857124, -108.6748325, 0.0)",52.1857124,-108.6748325,0.0
+365,SK Leverkusen,196,4,178,"Leverkusen, Nordrhein-Westfalen, 51373, Deutschland","(51.0324743, 6.9881194, 0.0)",51.0324743,6.9881194,0.0
+366,SK Ludwigshafen,268,2,227,"Ludwigshafen am Rhein, Rheinland-Pfalz, 67061, Deutschland","(49.4704113, 8.4381568, 0.0)",49.4704113,8.4381568,0.0
+367,SK Lübeck,161,1,152,"Lübeck, Schleswig-Holstein, 23552, Deutschland","(53.866444, 10.684738, 0.0)",53.866444,10.684738,0.0
+368,SK Magdeburg,104,1,100,"Magdeburg, Sachsen-Anhalt, Deutschland","(52.1315889, 11.6399609, 0.0)",52.1315889,11.6399609,0.0
+369,SK Mainz,504,16,376,"Mainz, Rheinland-Pfalz, 55116, Deutschland","(50.0012314, 8.2762513, 0.0)",50.0012314,8.2762513,0.0
+370,SK Mannheim,440,10,337,"Mannheim, Baden-Württemberg, 68161, Deutschland","(49.489591, 8.467236, 0.0)",49.489591,8.467236,0.0
+371,SK Memmingen,49,0,44,"Memmingen, Bayern, 87700, Deutschland","(47.9867696, 10.181319, 0.0)",47.9867696,10.181319,0.0
+372,SK Mönchengladbach,483,35,378,"Mönchengladbach, Nordrhein-Westfalen, 41061, Deutschland","(51.1946983, 6.4353641, 0.0)",51.1946983,6.4353641,0.0
+373,SK Mülheim a.d.Ruhr,170,6,139,"Mülheim an der Ruhr, Nordrhein-Westfalen, Deutschland","(51.4272925, 6.8829192, 0.0)",51.4272925,6.8829192,0.0
+374,SK München,5618,103,4227,"München, Bayern, Deutschland","(48.1371079, 11.5753822, 0.0)",48.1371079,11.5753822,0.0
+375,SK Münster,635,13,567,"Muenster, Census Division No. 15, Saskatchewan, Canada","(52.1938312, -104.9936857, 0.0)",52.1938312,-104.9936857,0.0
+376,SK Neumünster,66,1,49,"Neumünster, Schleswig-Holstein, 24534, Deutschland","(54.0757442, 9.9815377, 0.0)",54.0757442,9.9815377,0.0
+377,SK Neustadt a.d.Weinstraße,92,1,87,"Neustadt an der Weinstraße, Rheinland-Pfalz, Deutschland","(49.3484885, 8.116060540695802, 0.0)",49.3484885,8.116060540695802,0.0
+378,SK Nürnberg,925,30,650,"Nürnberg, Bayern, Deutschland","(49.453872, 11.077298, 0.0)",49.453872,11.077298,0.0
+379,SK Oberhausen,188,1,162,"Oberhausen, Nordrhein-Westfalen, 46045, Deutschland","(51.4696137, 6.8514435, 0.0)",51.4696137,6.8514435,0.0
+380,SK Offenbach,94,7,65,"Offenbach am Main, Hessen, 63065, Deutschland","(50.1055002, 8.7610698, 0.0)",50.1055002,8.7610698,0.0
+381,SK Oldenburg,160,1,150,"Oldenburg, Niedersachsen, 26122, Deutschland","(53.1389753, 8.2146017, 0.0)",53.1389753,8.2146017,0.0
+382,SK Osnabrück,437,12,406,"Osnabrück, Niedersachsen, 49074, Deutschland","(52.266837, 8.049741, 0.0)",52.266837,8.049741,0.0
+383,SK Passau,123,16,99,"Passau, Bayern, 94032, Deutschland","(48.5748229, 13.4609744, 0.0)",48.5748229,13.4609744,0.0
+384,SK Pforzheim,267,4,105,"Pforzheim, Baden-Württemberg, 75175, Deutschland","(48.8908846, 8.7029532, 0.0)",48.8908846,8.7029532,0.0
+385,SK Pirmasens,30,0,27,"Pirmasens, Rheinland-Pfalz, 66953, Deutschland","(49.1996961, 7.6087847, 0.0)",49.1996961,7.6087847,0.0
+386,SK Potsdam,583,39,439,"Potsdam, Brandenburg, Deutschland","(52.4009309, 13.0591397, 0.0)",52.4009309,13.0591397,0.0
+387,SK Regensburg,410,5,354,"Regensburg, Bayern, 93047, Deutschland","(49.0195333, 12.0974869, 0.0)",49.0195333,12.0974869,0.0
+388,SK Remscheid,213,14,142,"Remscheid, Nordrhein-Westfalen, 42853, Deutschland","(51.1798706, 7.1943544, 0.0)",51.1798706,7.1943544,0.0
+389,SK Rosenheim,427,18,164,"Ružinov, Bratislava, Bratislavský kraj, Slovensko","(48.143488500000004, 17.16070216871738, 0.0)",48.143488500000004,17.16070216871738,0.0
+390,SK Rostock,75,2,73,"Rostock, Mecklenburg-Vorpommern, Deutschland","(54.0924445, 12.1286127, 0.0)",54.0924445,12.1286127,0.0
+391,SK Salzgitter,128,6,100,"Salzgitter, Niedersachsen, 38226, Deutschland","(52.1503721, 10.3593147, 0.0)",52.1503721,10.3593147,0.0
+392,SK Schwabach,74,1,66,"Schwabach, Bayern, 91126, Deutschland","(49.3346915, 11.029413917830473, 0.0)",49.3346915,11.029413917830473,0.0
+393,SK Schweinfurt,163,16,111,"Schweinfurt, Bayern, 97421, Deutschland","(50.0499945, 10.233302, 0.0)",50.0499945,10.233302,0.0
+394,SK Schwerin,90,0,88,"Schwerin, Mecklenburg-Vorpommern, Deutschland","(53.6288297, 11.4148038, 0.0)",53.6288297,11.4148038,0.0
+395,SK Solingen,226,7,193,"Solingen, Nordrhein-Westfalen, 42651, Deutschland","(51.1712468, 7.0838996, 0.0)",51.1712468,7.0838996,0.0
+396,SK Speyer,74,0,55,"Speyer, Rheinland-Pfalz, 67346, Deutschland","(49.3165553, 8.433615, 0.0)",49.3165553,8.433615,0.0
+397,SK Straubing,368,33,242,"Straubing, Bayern, 94315, Deutschland","(48.8819801, 12.569716, 0.0)",48.8819801,12.569716,0.0
+398,SK Stuttgart,1314,50,1097,"Stuttgart, Baden-Württemberg, Deutschland","(48.7784485, 9.1800132, 0.0)",48.7784485,9.1800132,0.0
+399,SK Suhl,13,2,10,"Suhl, Thüringen, 98527, Deutschland","(50.6086518, 10.6926437, 0.0)",50.6086518,10.6926437,0.0
+400,SK Trier,97,1,92,"Trier, Rheinland-Pfalz, 54290, Deutschland","(49.7596208, 6.6441878, 0.0)",49.7596208,6.6441878,0.0
+401,SK Ulm,252,4,168,"Ulm, Baden-Württemberg, Deutschland","(48.3974003, 9.9934336, 0.0)",48.3974003,9.9934336,0.0
+402,SK Weiden i.d.OPf.,292,11,228,"Weiden in der Oberpfalz, Bayern, 92637, Deutschland","(49.6752749, 12.1631636, 0.0)",49.6752749,12.1631636,0.0
+403,SK Weimar,61,0,57,"Weimar, Thüringen, 99423, Deutschland","(50.9802813, 11.3290855, 0.0)",50.9802813,11.3290855,0.0
+404,SK Wiesbaden,311,10,261,"Wiesbaden, Hessen, 65183, Deutschland","(50.0820384, 8.2416556, 0.0)",50.0820384,8.2416556,0.0
+405,SK Wilhelmshaven,19,1,14,"Wilhelmshaven, Niedersachsen, 26382, Deutschland","(53.5278793, 8.106301, 0.0)",53.5278793,8.106301,0.0
+406,SK Wolfsburg,283,50,211,"Vlčí vrch, okres Bratislava III, Bratislava, Bratislavský kraj, 831 52, Slovensko","(48.2116735, 17.0925913, 0.0)",48.2116735,17.0925913,0.0
+407,SK Worms,182,7,147,"Worms, Rheinland-Pfalz, 67547, Deutschland","(49.6302618, 8.3620898, 0.0)",49.6302618,8.3620898,0.0
+408,SK Wuppertal,802,62,518,"Wuppertal, Nordrhein-Westfalen, 42285, Deutschland","(51.264018, 7.1780374, 0.0)",51.264018,7.1780374,0.0
+409,SK Würzburg,457,49,271,"Würzburg, Bayern, 97070, Deutschland","(49.79245, 9.932966, 0.0)",49.79245,9.932966,0.0
+410,SK Zweibrücken,35,0,32,"Zweibrücken, Rheinland-Pfalz, 66482, Deutschland","(49.2535955, 7.370627437376278, 0.0)",49.2535955,7.370627437376278,0.0
+411,StadtRegion Aachen,1863,82,1579,,,,,
